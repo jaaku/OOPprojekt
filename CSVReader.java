@@ -9,7 +9,7 @@ public class CSVReader {
 
     public static void main(String[] args) {
 
-        String csvFile = "2016kvv.csv";
+        String csvFile = "2016kvvosa.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
