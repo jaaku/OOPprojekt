@@ -1,7 +1,8 @@
 # OOPprojekt
 
 1. Programm loeb sisse konto väljavõtte. 
-2. Lisab 
+2. Lisab konto numbrid  kannetele
+3. Salvestab txt dokumendi kontode andmetega   https://github.com/jaaku/OOPprojekt/blob/master/kontod_naidis.txt  
 
 Konto väljavõte:
 10. jaanuar Arve laekumine 100.-
