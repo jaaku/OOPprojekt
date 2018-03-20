@@ -7,7 +7,7 @@ Konto väljavõte:
 10. jaanuar Arve laekumine 100.-
 
 12. jaanuar Teenuse x eest maksmine - 20.-
--------------------------
+
 
 Konto 1001 Pank
 
@@ -37,4 +37,5 @@ Algsaldo 0
 10. jaanuar  100.-
 
 Lõppsaldo 20.-
+--------------------------
 
